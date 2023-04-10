@@ -1,6 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+#Simple project to learn about slide-show properties in next js 
+#In this project some cars images are used as slide 
+# for starter
+#Install React-Slick and its dependencies:
+
+--npm install react-slick slick-carousel
+
+
+
+
 ## Getting Started
+
 
 First, run the development server:
 
